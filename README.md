@@ -9,5 +9,5 @@ conda init zsh
 git clone --depth 1 https://github.com/deepfakes/faceswap.git
 
 conda activate faceswap
-python setup.py
+pip install -r requirements/requirements_cpu.txt
 ```
