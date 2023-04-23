@@ -10,4 +10,5 @@ git clone --depth 1 https://github.com/deepfakes/faceswap.git
 
 conda activate faceswap
 pip install -r requirements/requirements_cpu.txt
+pip install pynvx
 ```
